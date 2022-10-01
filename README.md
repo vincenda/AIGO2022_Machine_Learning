@@ -8,7 +8,7 @@ Youtube DEMO影片 : https://www.youtube.com/watch?v=q6POHT_AZGA
  
     登入頁面
     
-    ![image](https://user-images.githubusercontent.com/60216163/193393690-852b84ca-a33a-49e7-992a-c2ddb2d90822.png)
+    ![image](https://github.com/vincenda/AIGO2022_Machine_Learning/blob/main/%E8%A8%BB%E5%86%8A.png?raw=true)
 
     
     註冊頁面
