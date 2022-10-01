@@ -55,7 +55,7 @@
 
   #### 步驟三 : 查看測驗成績
   
-   ![image](https://user-images.githubusercontent.com/60216163/193394043-03f8534f-489c-49a8-8b98-87998499ec8e.png)
+   ![image](https://user-images.githubusercontent.com/60216163/193396021-3a4e274e-daf1-472a-8ddb-e2474416e874.png)
 
 
 ### 四、學習歷程查詢
